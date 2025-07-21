@@ -1,0 +1,2 @@
+Hi, I'm Mohamed saidi,  I'am currently learning mobile app development.
+I'm so eexcited to learn how to build real-world applications that provide practical solutions to everday community challenges through this bootcamp.
