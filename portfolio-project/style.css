@@ -17,6 +17,7 @@ header{
 nav a{
     color: white;
     text-decoration: none;
+    list-style-type: none;
 }
 
 section{
@@ -25,3 +26,4 @@ section{
     margin-top: 20px;
 }
 
+        
